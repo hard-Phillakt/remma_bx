@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Evolventa-Regular';
+    src: url('Evolventa-Regular.eot');
+url('Evolventa-Regular.eot?#') format('embedded-opentype'),
+url('Evolventa-Regular.woff') format('woff'),
+url('Evolventa-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Evolventa-Bold';
+    src: url('Evolventa-Bold.eot');
+url('Evolventa-Bold.eot?#') format('embedded-opentype'),
+url('Evolventa-Bold.woff') format('woff'),
+url('Evolventa-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Evolventa-BoldOblique';
+    src: url('Evolventa-BoldOblique.eot');
+url('Evolventa-BoldOblique.eot?#') format('embedded-opentype'),
+url('Evolventa-BoldOblique.woff') format('woff'),
+url('Evolventa-BoldOblique.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Evolventa-Oblique';
+    src: url('Evolventa-Oblique.eot');
+url('Evolventa-Oblique.eot?#') format('embedded-opentype'),
+url('Evolventa-Oblique.woff') format('woff'),
+url('Evolventa-Oblique.ttf') format('truetype');
+}
